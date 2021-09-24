@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-    <title>đ*t chị linh dê</title>
+    <title>Đâu có gì đâu</title>
 
    
   </head>
